@@ -15,4 +15,4 @@
 <h3 align="left">Github stats:</h3>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiestaxxl)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiestaxxl&show_icons=true&theme=radical)
