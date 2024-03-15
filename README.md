@@ -10,5 +10,7 @@
 <h3 align="left">Useful links:</h3>
 <ul>
   <li><a href="https://t.me/fiesta_xxl"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="26"></a></li>
-  <li><a href="mailto:ivan.gurev@skoltech.ru"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="26"></a></li>
 </ul>
+
+<h3 align="left">Github stats:</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiestaxxl)](https://github.com/anuraghazra/github-readme-stats)
