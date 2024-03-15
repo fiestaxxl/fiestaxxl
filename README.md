@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">About me:</h3>
 <ul>
-  <li>🌻 Skoltech Advanced Computation Science Master Student.</li>
+  <li>🌻 Skoltech Advanced Computational Science Master Student.</li>
   <li>👨🏻‍💻 Currently at Sibur Polylab.</li>
   <li>🐼 ex. intern Data Engineer at SberRoboticsLab, Moscow.</li>
 </ul>
