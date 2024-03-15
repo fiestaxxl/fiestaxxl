@@ -8,6 +8,8 @@
 </ul>
 
 <h3 align="left">Useful links:</h3>
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/scalyvladimir)
+
 <ul>
   <li><a href="https://t.me/fiesta_xxl"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="26"></a></li>
 </ul>
