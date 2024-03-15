@@ -14,5 +14,18 @@
 
 <h3 align="left">Github stats:</h3>
 
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiestaxxl&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=fiestaxxl&show_icons=true&theme=radical&cache_seconds=1800" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiestaxxl&hide_progress=false&theme=radical&cache_seconds=1800" />
+</a>
+
+<br clear="all" />
+
+<h3 align="left">Joke of the day section</h3>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
