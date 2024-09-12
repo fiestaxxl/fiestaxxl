@@ -3,7 +3,8 @@
 <h3 align="left">About me:</h3>
 <ul>
   <li>🌻 Skoltech Advanced Computational Science Master Student.</li>
-  <li>👨🏻‍💻 Currently at Sibur Polylab.</li>
+  <li>👨🏻‍💻 Research scientist/PhD student at ITMO university.</li>
+  <li>👨🏻‍💻 ex. Specialist at Sibur Polylab.</li>
   <li>🐼 ex. intern Data Engineer at SberRoboticsLab, Moscow.</li>
 </ul>
 
