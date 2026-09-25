@@ -6,8 +6,8 @@
   <li>👨🏻‍💻 ML Engineer at GigaChat Pretrain team.</li>
   <li>👨🏻‍💻 Research scientist/PhD student at ITMO university.</li>
   <li>👨🏻‍💻 ex. ML developer at Yandex search.</li>
-  <li>👨🏻‍💻 ex. Specialist at Sibur Polylab.</li>
-  <li>🐼 ex. intern Data Engineer at SberRoboticsLab, Moscow.</li>
+  <li>👨🏻‍💻 ex. Data Scientist at Sibur Polylab.</li>
+  <li>🐼 ex. ML Intern at SberRoboticsLab, Moscow.</li>
 </ul>
 
 <h3 align="left">Useful links:</h3>
